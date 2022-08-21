@@ -1,0 +1,27 @@
+{
+  "name": "node-ts-template-starter",
+  "version": "1.0.0",
+  "description": "Settings template to use NodeJS in conjunction with TypeScript",
+  "main": "./src/index.ts",
+  "displayName": "Node + TypeScript Template Starter",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nairo-mudumane/node-ts-template-starter.git"
+  },
+  "bugs": {
+    "email": "nairomudumane@outlook.com",
+    "url": "https://github.com/nairo-mudumane/node-ts-template-starter/issues"
+  },
+  "author": {
+    "email": "nairomudumane@outlook.com",
+    "name": "Nairo Mudumane",
+    "url": "https://nairomudumane.vercel.app"
+  },
+  "engines": {
+    "node": ">=17.1.0",
+    "npm": ">=8.1.4",
+    "yarn": ">=1.22.18"
+  }
+}
